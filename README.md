@@ -9,3 +9,5 @@ Cílem programu je poté využití algoritmu quicksort a to buď quicksort progr
 This programm's purpose is to generate array of random numbers in range of -16838 to 16838, the size of the array is determined by user.  
 The goal of the programm is to use quicksort algorithm, either programmers quicksort or quicksort(qsort) from library.  
 Output of the programm is the time it took to sort the array.   
+
+WARNING: THIS PROGRAMM WAS MADE WITH INTETION TO BE USED ONLY BY CZECH USERS

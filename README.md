@@ -1,5 +1,6 @@
 # Uloha_9_Quicksort_vs_Qsort  
 README:  
+  
 Tento program má nastarost vygenerovat pole náhodných čísel v rozmezí -16838 až 16838 o velikosti zadané uživatelem.  
 Cílem programu je poté využití algoritmu quicksort a to buď quicksort programátora nebo quicksort (qsort) z knihovny. Výstupem je doba ke seřazení pole.
 -------------------------------------------

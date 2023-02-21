@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Uloha_9", "Uloha_9\Uloha_9.vcxproj", "{0F689D31-8DB7-4587-ABB5-DD5C52F8F17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F689D31-8DB7-4587-ABB5-DD5C52F8F17A}.Debug|x64.ActiveCfg = Debug|x64
+		{0F689D31-8DB7-4587-ABB5-DD5C52F8F17A}.Debug|x64.Build.0 = Debug|x64
+		{0F689D31-8DB7-4587-ABB5-DD5C52F8F17A}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F689D31-8DB7-4587-ABB5-DD5C52F8F17A}.Debug|x86.Build.0 = Debug|Win32
+		{0F689D31-8DB7-4587-ABB5-DD5C52F8F17A}.Release|x64.ActiveCfg = Release|x64
+		{0F689D31-8DB7-4587-ABB5-DD5C52F8F17A}.Release|x64.Build.0 = Release|x64
+		{0F689D31-8DB7-4587-ABB5-DD5C52F8F17A}.Release|x86.ActiveCfg = Release|Win32
+		{0F689D31-8DB7-4587-ABB5-DD5C52F8F17A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {476B3551-F28C-48D2-8183-FE95B3339D05}
+	EndGlobalSection
+EndGlobal

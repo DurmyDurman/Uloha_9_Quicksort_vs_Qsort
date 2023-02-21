@@ -10,4 +10,4 @@ This programm's purpose is to generate array of random numbers in range of -1683
 The goal of the programm is to use quicksort algorithm, either programmers quicksort or quicksort(qsort) from library.  
 Output of the programm is the time it took to sort the array.   
 
-WARNING: THIS PROGRAMM WAS MADE WITH INTETION TO BE USED ONLY BY CZECH USERS
+WARNING: THIS PROGRAMM WAS MADE WITH INTENTION TO BE USED ONLY BY CZECH USERS
